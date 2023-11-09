@@ -101,4 +101,5 @@ html_theme = 'sphinx_rtd_theme'
 5. cd docs
 6. command "make html"
 
-Finally generate html
+Finally document is generated
+Run "docs/_build/html/index.html" file 
